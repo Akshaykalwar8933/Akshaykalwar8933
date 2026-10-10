@@ -1,4 +1,4 @@
-<!-- Put this file in a repo named exactly like your GitHub username (YOUR_USERNAME/YOUR_USERNAME). Keep the /assets folder next to it. -->
+<!-- Repo name must be Akshaykalwar8933/Akshaykalwar8933. Images load from the /assets folder in this repo. -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:02569B,50:13B9FD,100:3DDC84&text=Akshay%20Kalwar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Application%20Developer%20%E2%80%A2%20Android%20%26%20iOS&descSize=22&descAlignY=60" width="100%"/>
 
@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="./assets/device-animation.svg" width="85%" alt="Android and iOS device animation"/>
+<img src="https://raw.githubusercontent.com/Akshaykalwar8933/Akshaykalwar8933/main/assets/device-animation.svg" width="85%" alt="Android and iOS device animation"/>
 
 </div>
 
@@ -37,7 +37,7 @@ Flutter Developer with **3 years** of experience building, testing and releasing
 
 # ⚡ TECH STACK
 
-<img src="./assets/skills-marquee.svg" width="100%" alt="Scrolling skills"/>
+<img src="https://raw.githubusercontent.com/Akshaykalwar8933/Akshaykalwar8933/main/assets/skills-marquee.svg" width="100%" alt="Scrolling skills"/>
 
 <br/>
 
@@ -135,7 +135,7 @@ Multilingual attendance, payroll and leave modules with REST API and payment int
 </tr>
 </table>
 
-> 🔗 Replace each `(#)` above with your real Play Store / App Store links.
+> 🔗 Add your Play Store / App Store links in the badges above.
 
 ---
 
@@ -160,18 +160,18 @@ Multilingual attendance, payroll and leave modules with REST API and payment int
 
 ## 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Akshaykalwar8933&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaykalwar8933&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaykalwar8933&theme=tokyonight&hide_border=true"/>
 
 ## 📫 Let's Connect
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akshaykalwar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:akshayjaiswal1618@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+<a href="https://akshaykalwar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=13B9FD&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Akshaykalwar8933&label=Profile%20Views&color=13B9FD&style=for-the-badge"/>
 
 </div>
 
