@@ -1,6 +1,6 @@
 <!-- Repo name must be Akshaykalwar8933/Akshaykalwar8933. Images load from the /assets folder in this repo. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:02569B,50:13B9FD,100:3DDC84&text=Akshay%20Kalwar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Application%20Developer%20%E2%80%A2%20Android%20%26%20iOS&descSize=22&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:02569B,50:13B9FD,100:3DDC84&text=Akshay%20Kalwar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Application%20Developer%20%E2%80%A2%20Android%20and%20iOS&descSize=22&descAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -93,9 +93,6 @@ Flutter Developer with **3 years** of experience building, testing and releasing
 Registration, loan application, eligibility, offers and repayment flows.
 `Flutter` `Dart` `REST` `Firebase`
 
-[![Google Play](https://img.shields.io/badge/Google_Play-10L%2B-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](#)
-[![App Store](https://img.shields.io/badge/App_Store-iOS-000?style=flat-square&logo=apple&logoColor=white)](#)
-
 </td>
 <td width="50%" valign="top">
 
@@ -103,8 +100,6 @@ Registration, loan application, eligibility, offers and repayment flows.
 **Digital Lending / Fintech** · 10L+ downloads
 Biometric login, KYC, document verification, Razorpay repayments.
 `Flutter` `Firebase` `Razorpay` `Secure Storage`
-
-[![Google Play](https://img.shields.io/badge/Google_Play-10L%2B-3DDC84?style=flat-square&logo=googleplay&logoColor=white)](#)
 
 </td>
 </tr>
@@ -134,8 +129,6 @@ Multilingual attendance, payroll and leave modules with REST API and payment int
 </td>
 </tr>
 </table>
-
-> 🔗 Add your Play Store / App Store links in the badges above.
 
 ---
 
